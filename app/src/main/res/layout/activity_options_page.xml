@@ -39,7 +39,8 @@
         android:layout_alignRight="@+id/textView5"
         android:layout_below="@+id/textView2"
         android:onClick="Reminder"
-        android:text="@string/RemButton" />
+        android:text="@string/RemButton"
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/textView3"
@@ -61,7 +62,8 @@
         android:layout_alignRight="@+id/Reminder"
         android:layout_below="@+id/textView3"
         android:onClick="Notes"
-        android:text="@string/Notes" />
+        android:text="@string/Notes"
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/textView4"
@@ -83,7 +85,8 @@
         android:layout_alignStart="@+id/BibleNotes"
         android:layout_below="@+id/textView4"
         android:onClick="Fast"
-        android:text="@string/Fast" />
+        android:text="@string/Fast"
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/textView5"
@@ -105,7 +108,8 @@
         android:layout_alignRight="@+id/button3"
         android:layout_below="@+id/textView5"
         android:onClick="Journal"
-        android:text="@string/Journal" />
+        android:text="@string/Journal"
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/textView6"
@@ -116,7 +120,8 @@
         android:layout_below="@+id/button4"
         android:onClick="Settings"
         android:text="@string/Settings"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
 
     <Button
         android:id="@+id/button5"
@@ -127,7 +132,8 @@
         android:layout_alignRight="@+id/button4"
         android:layout_alignStart="@+id/button3"
         android:layout_below="@+id/textView6"
-        android:text="@string/Set" />
+        android:text="@string/Set"
+        android:textColor="#000000" />
 
     <TextView
         android:id="@+id/textView7"
@@ -137,7 +143,8 @@
         android:layout_alignParentStart="true"
         android:layout_below="@+id/button5"
         android:text="@string/Ab"
-        android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
 
     <Button
         android:id="@+id/button6"
@@ -148,5 +155,6 @@
         android:layout_alignRight="@+id/button5"
         android:layout_alignStart="@+id/button5"
         android:layout_below="@+id/textView7"
-        android:text="@string/About" />
+        android:text="@string/About"
+        android:textColor="#000000" />
 </RelativeLayout>
