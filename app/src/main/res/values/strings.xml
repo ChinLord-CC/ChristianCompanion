@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Christian Companion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Welcome">Welcome To The Christian \n &#032;Companion Application</string>
+    <string name="purpose">The Purpose Of This Application Is \n &#032; To help You Develop A Intimate \n &#032; &#032; &#032; &#032; &#032; Relationship With God.</string>
+    <string name="Name">First-Name</string>
+    <string name="go">Lets Go!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="ForStep">Here are A Set Of Options</string>
+    <string name="Rem">Remind Yourself to Pray/Read Bible</string>
+    <string name="RemButton">Reminders</string>
+    <string name="Prayer">Bible Study Notes-What You Have Learnt</string>
+    <string name="Notes">Bible Study Notes</string>
+    <string name="FastAnalysis">Fast Analysis-How It Is Going</string>
+    <string name="Fast">Fast Check-Up</string>
+    <string name="JournalNotes">What God Has Been Saying to You</string>
+    <string name="Journal">Personal Journal</string>
+    <string name="Settings">Change Some Settings</string>
+    <string name="Set">Settings</string>
+    <string name="Ab">What We Are About</string>
+    <string name="About">About</string>
+    <string name="Nam">Enter Your Name </string>
+    <string name="Home">Home </string>
+    <string name="title_activity_reminders">Reminders</string>
+    <string name="ReminderFunction">Set Up A Frequent Reminder </string>
+    <string name="Time">What Time Should I Remind You</string>
+    <string name="RemType">What Kind Of Reminder</string>
+    <string name="title_activity_study_notes">StudyNotes</string>
+    <string name="title_activity_fast">Fast</string>
+    <string name="FastStart">What Day Does Your Fast Start</string>
+    <string name="title_activity_fasting">Fasting</string>
+    <string name="title_fasting">Welcome To The Fasting Section Of This Application</string>
+    <string name="FastLength">How Many Days is your Fast For?</string>
+    <string name="Hours">How Long</string>
+    <string name="FastType">What Type of Fast?</string>
+    <string name="Daniel">Daniel Fast</string>
+    <string name="Liquid">Liquid Fast</string>
+    <string name="Dry">Dry Fast</string>
+    <string name="title_activity_options_page">Options</string>
+    <string name="title_activity_reminder">Reminders</string>
+    <string name="title_activity_bible_notes">Bible Notes</string>
+    <string name="title_activity_fast_page">Fasting Page</string>
+    <string name="title_activity_journal">Journal</string>
+    <string name="title_activity_about">About The App</string>
+    <string name="Cont">Continue</string>
+
+
+</resources>
+
+

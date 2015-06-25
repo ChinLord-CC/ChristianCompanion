@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.glorytog_d.app2">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:supportsRtl="true">
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".OptionsPage"
+            android:label="@string/title_activity_options_page" />
+        <activity
+            android:name=".ReminderActivity"
+            android:label="@string/title_activity_reminder"></activity>
+        <activity
+            android:name=".BibleNotes"
+            android:label="@string/title_activity_bible_notes"></activity>
+        <activity
+            android:name=".FastPage"
+            android:label="@string/title_activity_fast_page"></activity>
+        <activity
+            android:name=".Journal"
+            android:label="@string/title_activity_journal"></activity>
+        <activity
+            android:name=".SettingsActivity"
+            android:label="@string/title_activity_settings"></activity>
+        <activity
+            android:name=".About"
+            android:label="@string/title_activity_about"></activity>
+    </application>
+
+</manifest>
