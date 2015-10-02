@@ -7,4 +7,30 @@
         android:orderInCategory="100"
         android:title="@string/action_settings"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Home"
+        android:orderInCategory="100"
+        android:title="@string/Home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Reminders"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_reminders"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_BibleNotes"
+        android:orderInCategory="100"
+        android:title="@string/Notes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Fast"
+        android:orderInCategory="100"
+        android:title="@string/Fast"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_Journal"
+        android:orderInCategory="100"
+        android:title="@string/Journal"
+        app:showAsAction="never" />
+
 </menu>
