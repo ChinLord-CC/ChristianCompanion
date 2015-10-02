@@ -18,6 +18,7 @@
         android:layout_alignParentTop="true"
         android:text="@string/ForStep"
         android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffffff"
         android:textSize="25dp" />
 
     <TextView
@@ -29,6 +30,7 @@
         android:layout_below="@+id/textView"
         android:text="@string/Rem"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
         android:textSize="15sp" />
 
     <Button
@@ -54,6 +56,7 @@
         android:layout_below="@+id/Reminder"
         android:text="@string/Prayer"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
         android:textSize="15sp" />
 
     <Button
@@ -79,6 +82,7 @@
         android:layout_below="@+id/BibleNotes"
         android:text="@string/FastAnalysis"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
         android:textSize="15sp" />
 
     <Button
@@ -104,6 +108,7 @@
         android:layout_below="@+id/button3"
         android:text="@string/JournalNotes"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
         android:textSize="15sp" />
 
     <Button
@@ -130,6 +135,7 @@
         android:onClick="Settings"
         android:text="@string/Settings"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
         android:textSize="15sp" />
 
     <Button
@@ -154,6 +160,7 @@
         android:layout_below="@+id/button5"
         android:text="@string/Ab"
         android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
         android:textSize="15sp" />
 
     <Button

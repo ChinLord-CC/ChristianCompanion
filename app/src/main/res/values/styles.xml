@@ -2,14 +2,12 @@
 
     <!-- Base application theme. -->
     <color name="BG_COLOUR">#0d47a1</color>
-    <color name="Menu">#efefef</color>
+
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="android:windowBackground">@color/BG_COLOUR</item>
         <item name="android:layout_width">wrap_content</item>
         <item name="android:layout_height">wrap_content</item>
-        <item name="android:textColor">#efefef</item>
-        <item name="android:actionMenuTextColor">#212121</item>
 
         <!-- Customize your theme here. -->
     </style>

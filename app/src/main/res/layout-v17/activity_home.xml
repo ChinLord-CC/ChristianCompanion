@@ -1,3 +1,4 @@
+
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/Home"
@@ -17,16 +18,17 @@
         android:layout_centerHorizontal="true"
         android:text="@string/Welcome"
         android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffffff"
         android:textSize="30sp" />
 
     <TextView
         android:id="@+id/AppPurpose"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignLeft="@+id/Welcome"
+        android:layout_alignStart="@+id/Welcome"
         android:layout_below="@+id/Welcome"
-        android:layout_marginTop="74dp"
+        android:layout_marginTop="127dp"
         android:text="@string/purpose"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="#ffffff"
@@ -38,7 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/AppPurpose"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="140dp"
+        android:layout_marginTop="73dp"
         android:onClick="onClick"
         android:text="@string/go"
         android:textColor="#000000"

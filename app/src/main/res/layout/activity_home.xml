@@ -19,6 +19,7 @@
         android:phoneNumber="false"
         android:text="@string/Welcome"
         android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffffff"
         android:textSize="30sp" />
 
     <TextView
