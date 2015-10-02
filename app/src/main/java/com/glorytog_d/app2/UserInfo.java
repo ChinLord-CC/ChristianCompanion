@@ -15,20 +15,20 @@ public class UserInfo {
         this._username = username;
     }
 
-    public void set_id(int _id) {
-        this._id = _id;
-    }
-
-    public void set_username(String _username) {
-        this._username = _username;
-    }
-
     public int get_id() {
         return _id;
     }
 
+    public void set_id(int _id) {
+        this._id = _id;
+    }
+
     public String get_username() {
         return _username;
+    }
+
+    public void set_username(String _username) {
+        this._username = _username;
     }
 }
 
