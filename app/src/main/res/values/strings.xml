@@ -11,9 +11,9 @@
 
 
     <string name="ForStep">Here are A Set Of Options</string>
-    <string name="Rem">Remind Yourself to Pray/Read Bible</string>
+    <string name="Rem">Remind Yourself </string>
     <string name="RemButton">Reminders</string>
-    <string name="Prayer">Bible Study Notes-What You Have Learnt</string>
+    <string name="Prayer">Bible Study Notes</string>
     <string name="Notes">Study Notes</string>
     <string name="FastAnalysis">Fast Analysis-How It Is Going</string>
     <string name="Fast">Fast Check-Up</string>

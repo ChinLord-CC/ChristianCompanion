@@ -1,12 +1,12 @@
 package com.glorytog_d.app2;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class Journal extends ActionBarActivity {
+public class Journal extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

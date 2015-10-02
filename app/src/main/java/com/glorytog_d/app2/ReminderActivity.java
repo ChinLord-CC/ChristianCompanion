@@ -1,7 +1,7 @@
 package com.glorytog_d.app2;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -11,7 +11,7 @@ import android.widget.TimePicker;
 import java.util.Calendar;
 
 
-public class ReminderActivity extends ActionBarActivity {
+public class ReminderActivity extends Activity {
     private TimePicker timePicker1;
     private TextView time;
     private Calendar calendar;

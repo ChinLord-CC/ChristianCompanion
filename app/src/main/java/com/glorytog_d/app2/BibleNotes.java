@@ -1,12 +1,12 @@
 package com.glorytog_d.app2;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class BibleNotes extends ActionBarActivity {
+public class BibleNotes extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

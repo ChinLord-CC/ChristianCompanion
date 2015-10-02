@@ -1,12 +1,12 @@
 package com.glorytog_d.app2;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
 
-public class FastPage extends ActionBarActivity {
+public class FastPage extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
